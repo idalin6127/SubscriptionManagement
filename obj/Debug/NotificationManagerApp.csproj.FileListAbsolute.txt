@@ -1,0 +1,8 @@
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#2\NotificationManagerApp\obj\Debug\NotificationManagerApp.csproj.AssemblyReference.cache
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#2\NotificationManagerApp\obj\Debug\NotificationManagerApp.csproj.SuggestedBindingRedirects.cache
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#2\NotificationManagerApp\obj\Debug\NotificationManagerApp.ManageSubscriptionForm.resources
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#2\NotificationManagerApp\obj\Debug\NotificationManagerApp.NotificationManagerForm.resources
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#2\NotificationManagerApp\obj\Debug\NotificationManagerApp.Properties.Resources.resources
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#2\NotificationManagerApp\obj\Debug\NotificationManagerApp.PublishNotificationForm.resources
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#2\NotificationManagerApp\obj\Debug\NotificationManagerApp.csproj.GenerateResource.cache
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#2\NotificationManagerApp\obj\Debug\NotificationManagerApp.csproj.CoreCompileInputs.cache
